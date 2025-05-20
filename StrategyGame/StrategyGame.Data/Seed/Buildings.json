@@ -1,0 +1,16 @@
+[
+    {
+        "Id": 1,
+        "Name": "Barracks",
+        "Description": "Trains infantry.",
+        "BuildTime": 60,
+        "FactionId": 1
+    },
+    {
+        "Id": 2,
+        "Name": "Farm",
+        "Description": "Produces food.",
+        "BuildTime": 30,
+        "FactionId": 1
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Id": 1,
+        "Name": "Humans",
+        "Description": "Balanced race with strong economy."
+    },
+    {
+        "Id": 2,
+        "Name": "Orcs",
+        "Description": "Strong melee units, weak defenses."
+    }
+]

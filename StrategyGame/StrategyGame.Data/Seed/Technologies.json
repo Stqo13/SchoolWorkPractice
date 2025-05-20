@@ -1,0 +1,14 @@
+[
+    {
+        "Id": 1,
+        "Name": "Advanced Metallurgy",
+        "Description": "Increases attack by 10%",
+        "ResearchTime": 120
+    },
+    {
+        "Id": 2,
+        "Name": "Efficient Farming",
+        "Description": "Increases food production by 20%",
+        "ResearchTime": 90
+    }
+]

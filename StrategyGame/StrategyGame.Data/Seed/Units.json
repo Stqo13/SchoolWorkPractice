@@ -1,0 +1,18 @@
+  [
+    {
+        "Id": 1,
+        "Name": "Swordsman",
+        "AttackPower": 10,
+        "DefensePower": 5,
+        "TrainingTime": 45,
+        "FactionId": 1
+    },
+    {
+        "Id": 2,
+        "Name": "Archer",
+        "AttackPower": 7,
+        "DefensePower": 3,
+        "TrainingTime": 30,
+        "FactionId": 1
+    }
+]

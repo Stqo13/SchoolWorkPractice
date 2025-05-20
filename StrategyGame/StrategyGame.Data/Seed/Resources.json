@@ -1,0 +1,12 @@
+[
+    {
+        "Id": 1,
+        "Name": "Gold",
+        "Description": "Used for building and training."
+    },
+    {
+        "Id": 2,
+        "Name": "Food",
+        "Description": "Required for units to survive."
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "Id": 1,
+        "Name": "Valley of Kings",
+        "SizeX": 100,
+        "SizeY": 100,
+        "Description": "A balanced map with hills and forests."
+    }
+]
