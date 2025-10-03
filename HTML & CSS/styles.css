@@ -1,0 +1,123 @@
+.heading-main {
+    font-size: 32px;
+    color: blue;
+}
+
+.heading-sub {
+    font-weight: bold;
+    text-align: center;
+}
+
+.paragraph-red {
+    color: red;
+}
+
+.paragraph-large {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.paragraph-uppercase {
+    text-transform: uppercase;
+}
+
+.paragraph-spaced {
+    letter-spacing: 2px;
+}
+
+.paragraph-italic {
+    font-style: italic;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.box-padded {
+    padding: 20px;
+    background-color: lightgray;
+}
+
+.box-bordered {
+    margin: 30px;
+    border: 2px solid black;
+}
+
+.link-green {
+    color: green;
+    text-decoration: none;
+}
+
+.btn-primary {
+    background-color: blue;
+    color: white;
+}
+
+.list-item-padded {
+    padding: 10px;
+}
+
+.list-item-square {
+    list-style-type: square;
+}
+
+.list-item-large {
+    font-size: 18px;
+}
+
+.olist-item-indent {
+    margin-left: 20px;
+}
+
+.olist-item-bold {
+    font-weight: bold;
+}
+
+.olist-item-purple {
+    color: purple;
+}
+
+.round-img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.table-header-gray {
+    background-color: gray;
+}
+
+.table-header-padded {
+    padding: 10px;
+}
+
+.table-cell-bordered {
+    border: 1px solid black;
+}
+
+.table-cell-centered {
+    text-align: center;
+}
+
+.section-highlight {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.article-text {
+    margin: 40px auto;
+    text-align: justify;
+}
+
+.form-container {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.input-blue {
+    border: 1px solid blue;
+}
+
+.footer-small {
+    font-size: 14px;
+    text-align: center;
+}
